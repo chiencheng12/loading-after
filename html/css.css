@@ -25,7 +25,7 @@ body, html{
 .size{
     margin-top: 10px;
     font-size: 100px;
-    color:white;
+    color:black;
     font-weight:bold;
     text-align: center;
     animation: size 8s ease-in-out infinite alternate;/*利用下方的size功能進行8秒一次的無限播放*/
@@ -35,7 +35,7 @@ body, html{
     margin-left:33%;
     font-size:20px;
     text-decoration: wavy;
-    color:rgba(25, 106, 106, 0.7)
+    color:black;
 }
 /*設定轉動框框的外觀*/
 #load {
